@@ -19,13 +19,6 @@ The model is built using Ridge and Lasso regression, and to get best alpha score
 
 ### Conclusion
 
-### Ridge:
-- `GrLivArea`
-- `OverallQual_Excellent`
-- `Neighborhood_StoneBr`
-- `OverallQual_Very Good`
-- `FullBath_3`
-
 ### Lasso:
 - `GrLivArea`
 - `OverallQual_Excellent`
